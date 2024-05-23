@@ -1,0 +1,28 @@
+{
+    "reviews": [
+      {
+        "customerName": "John Doe",
+        "customerImageUrl": "https://source.unsplash.com/50x50/?avatar&John-Doe",
+        "restaurantName": "Pangsit Express",
+        "reviewDate": "2024-04-17",
+        "reviewText": "Great food and excellent service! Will definitely come back.",
+        "rating": 5
+      },
+      {
+        "customerName": "Jane Smith",
+        "customerImageUrl": "https://source.unsplash.com/50x50/?avatar&Jane-Smith",
+        "restaurantName": "Kafein",
+        "reviewDate": "2024-04-16",
+        "reviewText": "The atmosphere here is amazing. Had a wonderful dining experience.",
+        "rating": 4
+      },
+      {
+        "customerName": "Michael Johnson",
+        "customerImageUrl": "https://source.unsplash.com/50x50/?avatar&Michael-Johnson",
+        "restaurantName": "Fairy Cafe",
+        "reviewDate": "2024-04-15",
+        "reviewText": "Delicious food and friendly staff. Highly recommend!",
+        "rating": 5
+      }
+    ]
+  }

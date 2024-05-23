@@ -1,0 +1,23 @@
+{
+  "short_name": "Qona'ah Apps",
+  "name": "Al-Qona'ah Apps",
+  "description": "Ini adalah aplikasi rekomendasi restoran terbaik dan bintang 5 untuk anda kunjungi.",
+  "icons": [
+    {
+      "src": "../icons/icons-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../icons/icons-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "orientation": "portrait",
+  "theme_color": "#0c356a"
+}
